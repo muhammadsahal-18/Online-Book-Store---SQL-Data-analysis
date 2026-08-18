@@ -1,4 +1,4 @@
-# Online-Book-Store---SQL-Data-analysis
+# Online-Book-Store SQL-Data-analysis
 📚 Online Book Store — SQL Data Analysis
 
 🗄️ SQL & MySQL Data Analysis Project
